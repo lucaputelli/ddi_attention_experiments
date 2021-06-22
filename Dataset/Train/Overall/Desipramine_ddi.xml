@@ -1,0 +1,284 @@
+<?xml version="10" encoding="UTF-8"?>
+<document id="DDI-DrugBankd386">
+    <sentence id="DDI-DrugBankd386s0" text="1"/>
+    <sentence id="DDI-DrugBankd386s1" text="Drugs Metabolized by P450 2D6: The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the caucasian population (about 7 to 10% of caucasians are so called poor metabolizers),"/>
+    <sentence id="DDI-DrugBankd386s2" text="reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available"/>
+    <sentence id="DDI-DrugBankd386s3" text="Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses">
+        <entity id="DDI-DrugBankd386s3e0" charOffset="69-93"
+            type="group" text="tricyclic antidepressants"/>
+        <entity id="DDI-DrugBankd386s3e1" charOffset="96-99"
+            type="group" text="TCAs"/>
+        <pair id="DDI-DrugBankd386s3p0" e1="DDI-DrugBankd386s3e0"
+            e2="DDI-DrugBankd386s3e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s4" text="Depending on the traction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8 fold increase in plasma AUC of the TCA)">
+        <entity id="DDI-DrugBankd386s4e0" charOffset="163-165"
+            type="group" text="TCA"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s5" text="In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble po"/>
+    <sentence id="DDI-DrugBankd386s6" text="metabolizers"/>
+    <sentence id="DDI-DrugBankd386s7" text="An individual who is stable on a given dose of TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy">
+        <entity id="DDI-DrugBankd386s7e0" charOffset="47-49"
+            type="group" text="TCA"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s8" text="The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine,">
+        <entity id="DDI-DrugBankd386s8e0" charOffset="96-104"
+            type="drug" text="quinidine"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s9" text="cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythrnics propatenone and flecainide)">
+        <entity id="DDI-DrugBankd386s9e0" charOffset="0-9"
+            type="drug" text="cimetidine"/>
+        <entity id="DDI-DrugBankd386s9e1" charOffset="66-80"
+            type="group" text="antidepressants"/>
+        <entity id="DDI-DrugBankd386s9e2" charOffset="83-96"
+            type="group" text="phenothiazines"/>
+        <entity id="DDI-DrugBankd386s9e3" charOffset="148-157"
+            type="drug" text="flecainide"/>
+        <pair id="DDI-DrugBankd386s9p0" e1="DDI-DrugBankd386s9e0"
+            e2="DDI-DrugBankd386s9e1" ddi="false"/>
+        <pair id="DDI-DrugBankd386s9p1" e1="DDI-DrugBankd386s9e0"
+            e2="DDI-DrugBankd386s9e2" ddi="false"/>
+        <pair id="DDI-DrugBankd386s9p2" e1="DDI-DrugBankd386s9e0"
+            e2="DDI-DrugBankd386s9e3" ddi="false"/>
+        <pair id="DDI-DrugBankd386s9p3" e1="DDI-DrugBankd386s9e1"
+            e2="DDI-DrugBankd386s9e2" ddi="false"/>
+        <pair id="DDI-DrugBankd386s9p4" e1="DDI-DrugBankd386s9e1"
+            e2="DDI-DrugBankd386s9e3" ddi="false"/>
+        <pair id="DDI-DrugBankd386s9p5" e1="DDI-DrugBankd386s9e2"
+            e2="DDI-DrugBankd386s9e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s10" text="While all the selective serotonin reuptake inhibitors (SSRIs), eg, fluoxetine, seriraline, and paroxetine, inhibit P450 2D6, they may vary in the extent of inhibition">
+        <entity id="DDI-DrugBankd386s10e0" charOffset="14-52"
+            type="group" text="selective serotonin reuptake inhibitors"/>
+        <entity id="DDI-DrugBankd386s10e1" charOffset="55-59"
+            type="group" text="SSRIs"/>
+        <entity id="DDI-DrugBankd386s10e2" charOffset="69-78"
+            type="drug" text="fluoxetine"/>
+        <entity id="DDI-DrugBankd386s10e3" charOffset="97-106"
+            type="drug" text="paroxetine"/>
+        <pair id="DDI-DrugBankd386s10p0"
+            e1="DDI-DrugBankd386s10e0" e2="DDI-DrugBankd386s10e1" ddi="false"/>
+        <pair id="DDI-DrugBankd386s10p1"
+            e1="DDI-DrugBankd386s10e0" e2="DDI-DrugBankd386s10e2" ddi="false"/>
+        <pair id="DDI-DrugBankd386s10p2"
+            e1="DDI-DrugBankd386s10e0" e2="DDI-DrugBankd386s10e3" ddi="false"/>
+        <pair id="DDI-DrugBankd386s10p3"
+            e1="DDI-DrugBankd386s10e1" e2="DDI-DrugBankd386s10e2" ddi="false"/>
+        <pair id="DDI-DrugBankd386s10p4"
+            e1="DDI-DrugBankd386s10e1" e2="DDI-DrugBankd386s10e3" ddi="false"/>
+        <pair id="DDI-DrugBankd386s10p5"
+            e1="DDI-DrugBankd386s10e2" e2="DDI-DrugBankd386s10e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s11" text="The extent to which SSRI-TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved">
+        <entity id="DDI-DrugBankd386s11e0" charOffset="20-23"
+            type="group" text="SSRI"/>
+        <entity id="DDI-DrugBankd386s11e1" charOffset="25-27"
+            type="group" text="TCA"/>
+        <entity id="DDI-DrugBankd386s11e2" charOffset="141-144"
+            type="group" text="SSRI"/>
+        <pair id="DDI-DrugBankd386s11p0"
+            e1="DDI-DrugBankd386s11e0" e2="DDI-DrugBankd386s11e1"
+            ddi="true" type="int"/>
+        <pair id="DDI-DrugBankd386s11p1"
+            e1="DDI-DrugBankd386s11e0" e2="DDI-DrugBankd386s11e2" ddi="false"/>
+        <pair id="DDI-DrugBankd386s11p2"
+            e1="DDI-DrugBankd386s11e1" e2="DDI-DrugBankd386s11e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s12" text="Nevertheless, caution is indicated in the co-administration of TA with any of the SSRIs and also in switching from one class to the other">
+        <entity id="DDI-DrugBankd386s12e0" charOffset="63-66"
+            type="group" text="TA"/>
+        <entity id="DDI-DrugBankd386s12e1" charOffset="84-88"
+            type="group" text="SSRIs"/>
+        <pair id="DDI-DrugBankd386s12p0"
+            e1="DDI-DrugBankd386s12e0" e2="DDI-DrugBankd386s12e1"
+            ddi="true" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s13" text="Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary)">
+        <entity id="DDI-DrugBankd386s13e0" charOffset="120-129"
+            type="drug" text="fluoxetine"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s14" text="Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug">
+        <entity id="DDI-DrugBankd386s14e0" charOffset="19-43"
+            type="group" text="tricyclic antidepressants"/>
+        <entity id="DDI-DrugBankd386s14e1" charOffset="156-179"
+            type="group" text="tricyclic antidepressant"/>
+        <pair id="DDI-DrugBankd386s14p0"
+            e1="DDI-DrugBankd386s14e0" e2="DDI-DrugBankd386s14e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s15" text="Furthermore, whenever one of these other drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant may be required">
+        <entity id="DDI-DrugBankd386s15e0" charOffset="98-121"
+            type="group" text="tricyclic antidepressant"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s16" text="It is desirable to monitor TCA plasma levels whenever a TCA is going to be co-administered with another drug known to be an inhibitor of P450 2D6">
+        <entity id="DDI-DrugBankd386s16e0" charOffset="27-29"
+            type="group" text="TCA"/>
+        <entity id="DDI-DrugBankd386s16e1" charOffset="56-58"
+            type="group" text="TCA"/>
+        <pair id="DDI-DrugBankd386s16p0"
+            e1="DDI-DrugBankd386s16e0" e2="DDI-DrugBankd386s16e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s17" text="2"/>
+    <sentence id="DDI-DrugBankd386s18" text="Close supervision and careful adjustment of dosage are required when this drug is given concomitantly with anticholinergic or sympathomimetic drugs">
+        <entity id="DDI-DrugBankd386s18e0" charOffset="107-121"
+            type="group" text="anticholinergic"/>
+        <entity id="DDI-DrugBankd386s18e1" charOffset="126-146"
+            type="group" text="sympathomimetic drugs"/>
+        <pair id="DDI-DrugBankd386s18p0"
+            e1="DDI-DrugBankd386s18e0" e2="DDI-DrugBankd386s18e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s19" text="3"/>
+    <sentence id="DDI-DrugBankd386s20" text="Clinical experience in the concurrent administration of ECT and antidepressant drugs is limited">
+        <entity id="DDI-DrugBankd386s20e0" charOffset="64-83"
+            type="group" text="antidepressant drugs"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s21" text="Thus, if such treatment is essential, the possibility of increased risk relative to benefits should be considered"/>
+    <sentence id="DDI-DrugBankd386s22" text="4"/>
+    <sentence id="DDI-DrugBankd386s23" text="If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (eg, chlordiazepoxide or diazepam) are additive">
+        <entity id="DDI-DrugBankd386s23e0" charOffset="3-27"
+            type="drug" text="desipramine hydrochloride"/>
+        <entity id="DDI-DrugBankd386s23e1" charOffset="58-76"
+            type="group" text="psychotropic agents"/>
+        <entity id="DDI-DrugBankd386s23e2" charOffset="86-98"
+            type="group" text="tranquilizers"/>
+        <entity id="DDI-DrugBankd386s23e3" charOffset="103-110"
+            type="group" text="sedative"/>
+        <entity id="DDI-DrugBankd386s23e4" charOffset="112-120"
+            type="group" text="hypnotics"/>
+        <entity id="DDI-DrugBankd386s23e5" charOffset="234-244"
+            type="drug" text="desipramine"/>
+        <entity id="DDI-DrugBankd386s23e6" charOffset="250-264"
+            type="group" text="benzodiazepines"/>
+        <entity id="DDI-DrugBankd386s23e7" charOffset="273-288"
+            type="drug" text="chlordiazepoxide"/>
+        <entity id="DDI-DrugBankd386s23e8" charOffset="293-300"
+            type="drug" text="diazepam"/>
+        <pair id="DDI-DrugBankd386s23p0"
+            e1="DDI-DrugBankd386s23e0" e2="DDI-DrugBankd386s23e1"
+            ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd386s23p1"
+            e1="DDI-DrugBankd386s23e0" e2="DDI-DrugBankd386s23e2"
+            ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd386s23p2"
+            e1="DDI-DrugBankd386s23e0" e2="DDI-DrugBankd386s23e3"
+            ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd386s23p3"
+            e1="DDI-DrugBankd386s23e0" e2="DDI-DrugBankd386s23e4"
+            ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd386s23p4"
+            e1="DDI-DrugBankd386s23e0" e2="DDI-DrugBankd386s23e5" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p5"
+            e1="DDI-DrugBankd386s23e0" e2="DDI-DrugBankd386s23e6" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p6"
+            e1="DDI-DrugBankd386s23e0" e2="DDI-DrugBankd386s23e7" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p7"
+            e1="DDI-DrugBankd386s23e0" e2="DDI-DrugBankd386s23e8" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p8"
+            e1="DDI-DrugBankd386s23e1" e2="DDI-DrugBankd386s23e2" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p9"
+            e1="DDI-DrugBankd386s23e1" e2="DDI-DrugBankd386s23e3" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p10"
+            e1="DDI-DrugBankd386s23e1" e2="DDI-DrugBankd386s23e4" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p11"
+            e1="DDI-DrugBankd386s23e1" e2="DDI-DrugBankd386s23e5" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p12"
+            e1="DDI-DrugBankd386s23e1" e2="DDI-DrugBankd386s23e6" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p13"
+            e1="DDI-DrugBankd386s23e1" e2="DDI-DrugBankd386s23e7" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p14"
+            e1="DDI-DrugBankd386s23e1" e2="DDI-DrugBankd386s23e8" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p15"
+            e1="DDI-DrugBankd386s23e2" e2="DDI-DrugBankd386s23e3" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p16"
+            e1="DDI-DrugBankd386s23e2" e2="DDI-DrugBankd386s23e4" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p17"
+            e1="DDI-DrugBankd386s23e2" e2="DDI-DrugBankd386s23e5" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p18"
+            e1="DDI-DrugBankd386s23e2" e2="DDI-DrugBankd386s23e6" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p19"
+            e1="DDI-DrugBankd386s23e2" e2="DDI-DrugBankd386s23e7" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p20"
+            e1="DDI-DrugBankd386s23e2" e2="DDI-DrugBankd386s23e8" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p21"
+            e1="DDI-DrugBankd386s23e3" e2="DDI-DrugBankd386s23e4" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p22"
+            e1="DDI-DrugBankd386s23e3" e2="DDI-DrugBankd386s23e5" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p23"
+            e1="DDI-DrugBankd386s23e3" e2="DDI-DrugBankd386s23e6" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p24"
+            e1="DDI-DrugBankd386s23e3" e2="DDI-DrugBankd386s23e7" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p25"
+            e1="DDI-DrugBankd386s23e3" e2="DDI-DrugBankd386s23e8" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p26"
+            e1="DDI-DrugBankd386s23e4" e2="DDI-DrugBankd386s23e5" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p27"
+            e1="DDI-DrugBankd386s23e4" e2="DDI-DrugBankd386s23e6" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p28"
+            e1="DDI-DrugBankd386s23e4" e2="DDI-DrugBankd386s23e7" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p29"
+            e1="DDI-DrugBankd386s23e4" e2="DDI-DrugBankd386s23e8" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p30"
+            e1="DDI-DrugBankd386s23e5" e2="DDI-DrugBankd386s23e6"
+            ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd386s23p31"
+            e1="DDI-DrugBankd386s23e5" e2="DDI-DrugBankd386s23e7"
+            ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd386s23p32"
+            e1="DDI-DrugBankd386s23e5" e2="DDI-DrugBankd386s23e8"
+            ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd386s23p33"
+            e1="DDI-DrugBankd386s23e6" e2="DDI-DrugBankd386s23e7" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p34"
+            e1="DDI-DrugBankd386s23e6" e2="DDI-DrugBankd386s23e8" ddi="false"/>
+        <pair id="DDI-DrugBankd386s23p35"
+            e1="DDI-DrugBankd386s23e7" e2="DDI-DrugBankd386s23e8" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s24" text="Both the sedative and anticholinergic effects of the major tranquilizers are also additive to those of desipramine">
+        <entity id="DDI-DrugBankd386s24e0" charOffset="53-71"
+            type="group" text="major tranquilizers"/>
+        <entity id="DDI-DrugBankd386s24e1" charOffset="103-113"
+            type="drug" text="desipramine"/>
+        <pair id="DDI-DrugBankd386s24p0"
+            e1="DDI-DrugBankd386s24e0" e2="DDI-DrugBankd386s24e1"
+            ddi="true" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s25" text="5"/>
+    <sentence id="DDI-DrugBankd386s26" text="Concurrent administration of cimetidine and tricyclic antidepressants can produce clinically significant increases in the plasma levels of the tricyclic antidepressants">
+        <entity id="DDI-DrugBankd386s26e0" charOffset="29-38"
+            type="drug" text="cimetidine"/>
+        <entity id="DDI-DrugBankd386s26e1" charOffset="44-68"
+            type="group" text="tricyclic antidepressants"/>
+        <entity id="DDI-DrugBankd386s26e2" charOffset="143-167"
+            type="group" text="tricyclic antidepressants"/>
+        <pair id="DDI-DrugBankd386s26p0"
+            e1="DDI-DrugBankd386s26e0" e2="DDI-DrugBankd386s26e1"
+            ddi="true" type="mechanism"/>
+        <pair id="DDI-DrugBankd386s26p1"
+            e1="DDI-DrugBankd386s26e0" e2="DDI-DrugBankd386s26e2" ddi="false"/>
+        <pair id="DDI-DrugBankd386s26p2"
+            e1="DDI-DrugBankd386s26e1" e2="DDI-DrugBankd386s26e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s27" text="Conversely, decreases in plasma levels of the tricyclic antidepressants have been reported upon discontinuation of cimetidine which may result in the loss of the therapeutic efficacy of the tricyclic antidepressant 6">
+        <entity id="DDI-DrugBankd386s27e0" charOffset="46-70"
+            type="group" text="tricyclic antidepressants"/>
+        <entity id="DDI-DrugBankd386s27e1" charOffset="115-124"
+            type="drug" text="cimetidine"/>
+        <entity id="DDI-DrugBankd386s27e2" charOffset="190-213"
+            type="group" text="tricyclic antidepressant"/>
+        <pair id="DDI-DrugBankd386s27p0"
+            e1="DDI-DrugBankd386s27e0" e2="DDI-DrugBankd386s27e1"
+            ddi="true" type="mechanism"/>
+        <pair id="DDI-DrugBankd386s27p1"
+            e1="DDI-DrugBankd386s27e0" e2="DDI-DrugBankd386s27e2" ddi="false"/>
+        <pair id="DDI-DrugBankd386s27p2"
+            e1="DDI-DrugBankd386s27e1" e2="DDI-DrugBankd386s27e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd386s28" text="There have been greater than two-fold increases of previously stable plasma levels of tricyclic antidepressants when fluoxetine has been administered in combination with these agents">
+        <entity id="DDI-DrugBankd386s28e0" charOffset="86-110"
+            type="group" text="tricyclic antidepressants"/>
+        <entity id="DDI-DrugBankd386s28e1" charOffset="117-126"
+            type="drug" text="fluoxetine"/>
+        <pair id="DDI-DrugBankd386s28p0"
+            e1="DDI-DrugBankd386s28e0" e2="DDI-DrugBankd386s28e1"
+            ddi="true" type="mechanism"/>
+    </sentence>
+</document>

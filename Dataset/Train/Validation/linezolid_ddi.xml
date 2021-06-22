@@ -1,0 +1,138 @@
+<?xml version="10" encoding="UTF-8"?>
+<document id="DDI-DrugBankd441">
+    <sentence id="DDI-DrugBankd441s0" text="Monoamine Oxidase Inhibition: Linezolid is a reversible, nonselective inhibitor of monoamine oxidase">
+        <entity id="DDI-DrugBankd441s0e0" charOffset="30-38"
+            type="drug" text="Linezolid"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd441s1" text="Therefore, linezolid has the potential for interaction with adrenergic and serotonergic agents">
+        <entity id="DDI-DrugBankd441s1e0" charOffset="11-19"
+            type="drug" text="linezolid"/>
+        <entity id="DDI-DrugBankd441s1e1" charOffset="60-69"
+            type="group" text="adrenergic"/>
+        <entity id="DDI-DrugBankd441s1e2" charOffset="75-93"
+            type="group" text="serotonergic agents"/>
+        <pair id="DDI-DrugBankd441s1p0" e1="DDI-DrugBankd441s1e0"
+            e2="DDI-DrugBankd441s1e1" ddi="true" type="int"/>
+        <pair id="DDI-DrugBankd441s1p1" e1="DDI-DrugBankd441s1e0"
+            e2="DDI-DrugBankd441s1e2" ddi="true" type="int"/>
+        <pair id="DDI-DrugBankd441s1p2" e1="DDI-DrugBankd441s1e1"
+            e2="DDI-DrugBankd441s1e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd441s2" text="Adrenergic Agents:Some individuals receiving ZYVOX may experience a reversible enhancement of the pressor response to indirect-acting sympathomimetic agents, vasopressor or dopaminergic agents">
+        <entity id="DDI-DrugBankd441s2e0" charOffset="0-16"
+            type="group" text="Adrenergic Agents"/>
+        <entity id="DDI-DrugBankd441s2e1" charOffset="45-49"
+            type="brand" text="ZYVOX"/>
+        <entity id="DDI-DrugBankd441s2e2" charOffset="134-155"
+            type="group" text="sympathomimetic agents"/>
+        <entity id="DDI-DrugBankd441s2e3" charOffset="158-168"
+            type="group" text="vasopressor"/>
+        <entity id="DDI-DrugBankd441s2e4" charOffset="173-191"
+            type="group" text="dopaminergic agents"/>
+        <pair id="DDI-DrugBankd441s2p0" e1="DDI-DrugBankd441s2e0"
+            e2="DDI-DrugBankd441s2e1" ddi="false"/>
+        <pair id="DDI-DrugBankd441s2p1" e1="DDI-DrugBankd441s2e0"
+            e2="DDI-DrugBankd441s2e2" ddi="false"/>
+        <pair id="DDI-DrugBankd441s2p2" e1="DDI-DrugBankd441s2e0"
+            e2="DDI-DrugBankd441s2e3" ddi="false"/>
+        <pair id="DDI-DrugBankd441s2p3" e1="DDI-DrugBankd441s2e0"
+            e2="DDI-DrugBankd441s2e4" ddi="false"/>
+        <pair id="DDI-DrugBankd441s2p4" e1="DDI-DrugBankd441s2e1"
+            e2="DDI-DrugBankd441s2e2" ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd441s2p5" e1="DDI-DrugBankd441s2e1"
+            e2="DDI-DrugBankd441s2e3" ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd441s2p6" e1="DDI-DrugBankd441s2e1"
+            e2="DDI-DrugBankd441s2e4" ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd441s2p7" e1="DDI-DrugBankd441s2e2"
+            e2="DDI-DrugBankd441s2e3" ddi="false"/>
+        <pair id="DDI-DrugBankd441s2p8" e1="DDI-DrugBankd441s2e2"
+            e2="DDI-DrugBankd441s2e4" ddi="false"/>
+        <pair id="DDI-DrugBankd441s2p9" e1="DDI-DrugBankd441s2e3"
+            e2="DDI-DrugBankd441s2e4" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd441s3" text="Commonly used drugs such as phenylpropanolamine and pseudoephedrine have been specifically studied">
+        <entity id="DDI-DrugBankd441s3e0" charOffset="28-46"
+            type="drug" text="phenylpropanolamine"/>
+        <entity id="DDI-DrugBankd441s3e1" charOffset="52-66"
+            type="drug" text="pseudoephedrine"/>
+        <pair id="DDI-DrugBankd441s3p0" e1="DDI-DrugBankd441s3e0"
+            e2="DDI-DrugBankd441s3e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd441s4" text="Initial doses of adrenergic agents, such as dopamine or epinephrine, should be reduced and titrated to achieve the desired response">
+        <entity id="DDI-DrugBankd441s4e0" charOffset="17-33"
+            type="group" text="adrenergic agents"/>
+        <entity id="DDI-DrugBankd441s4e1" charOffset="44-51"
+            type="drug" text="dopamine"/>
+        <entity id="DDI-DrugBankd441s4e2" charOffset="56-66"
+            type="drug" text="epinephrine"/>
+        <pair id="DDI-DrugBankd441s4p0" e1="DDI-DrugBankd441s4e0"
+            e2="DDI-DrugBankd441s4e1" ddi="false"/>
+        <pair id="DDI-DrugBankd441s4p1" e1="DDI-DrugBankd441s4e0"
+            e2="DDI-DrugBankd441s4e2" ddi="false"/>
+        <pair id="DDI-DrugBankd441s4p2" e1="DDI-DrugBankd441s4e1"
+            e2="DDI-DrugBankd441s4e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd441s5" text="Serotonergic Agents: Co-administration of linezolid and serotonergic agents was not associated with serotonin syndrome in Phase 1, 2 or 3 studies">
+        <entity id="DDI-DrugBankd441s5e0" charOffset="0-18"
+            type="group" text="Serotonergic Agents"/>
+        <entity id="DDI-DrugBankd441s5e1" charOffset="42-50"
+            type="drug" text="linezolid"/>
+        <entity id="DDI-DrugBankd441s5e2" charOffset="56-74"
+            type="group" text="serotonergic agents"/>
+        <pair id="DDI-DrugBankd441s5p0" e1="DDI-DrugBankd441s5e0"
+            e2="DDI-DrugBankd441s5e1" ddi="false"/>
+        <pair id="DDI-DrugBankd441s5p1" e1="DDI-DrugBankd441s5e0"
+            e2="DDI-DrugBankd441s5e2" ddi="false"/>
+        <pair id="DDI-DrugBankd441s5p2" e1="DDI-DrugBankd441s5e1"
+            e2="DDI-DrugBankd441s5e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd441s6" text="Spontaneous reports of serotonin syndrome associated with co-administration of ZYVOX and serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs), have been reported">
+        <entity id="DDI-DrugBankd441s6e0" charOffset="79-83"
+            type="brand" text="ZYVOX"/>
+        <entity id="DDI-DrugBankd441s6e1" charOffset="89-107"
+            type="group" text="serotonergic agents"/>
+        <entity id="DDI-DrugBankd441s6e2" charOffset="120-134"
+            type="group" text="antidepressants"/>
+        <entity id="DDI-DrugBankd441s6e3" charOffset="144-182"
+            type="group" text="selective serotonin reuptake inhibitors"/>
+        <entity id="DDI-DrugBankd441s6e4" charOffset="185-189"
+            type="group" text="SSRIs"/>
+        <pair id="DDI-DrugBankd441s6p0" e1="DDI-DrugBankd441s6e0"
+            e2="DDI-DrugBankd441s6e1" ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd441s6p1" e1="DDI-DrugBankd441s6e0"
+            e2="DDI-DrugBankd441s6e2" ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd441s6p2" e1="DDI-DrugBankd441s6e0"
+            e2="DDI-DrugBankd441s6e3" ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd441s6p3" e1="DDI-DrugBankd441s6e0"
+            e2="DDI-DrugBankd441s6e4" ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd441s6p4" e1="DDI-DrugBankd441s6e1"
+            e2="DDI-DrugBankd441s6e2" ddi="false"/>
+        <pair id="DDI-DrugBankd441s6p5" e1="DDI-DrugBankd441s6e1"
+            e2="DDI-DrugBankd441s6e3" ddi="false"/>
+        <pair id="DDI-DrugBankd441s6p6" e1="DDI-DrugBankd441s6e1"
+            e2="DDI-DrugBankd441s6e4" ddi="false"/>
+        <pair id="DDI-DrugBankd441s6p7" e1="DDI-DrugBankd441s6e2"
+            e2="DDI-DrugBankd441s6e3" ddi="false"/>
+        <pair id="DDI-DrugBankd441s6p8" e1="DDI-DrugBankd441s6e2"
+            e2="DDI-DrugBankd441s6e4" ddi="false"/>
+        <pair id="DDI-DrugBankd441s6p9" e1="DDI-DrugBankd441s6e3"
+            e2="DDI-DrugBankd441s6e4" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd441s7" text="Patients who are treated with ZYVOX and concomitant serotonergic agents should be closely observed for signs and symptoms of serotonin syndrome (eg, cognitive dysfunction, hyperpyrexia, hyperreflexia, incoordination)">
+        <entity id="DDI-DrugBankd441s7e0" charOffset="30-34"
+            type="brand" text="ZYVOX"/>
+        <entity id="DDI-DrugBankd441s7e1" charOffset="52-70"
+            type="group" text="serotonergic agents"/>
+        <pair id="DDI-DrugBankd441s7p0" e1="DDI-DrugBankd441s7e0"
+            e2="DDI-DrugBankd441s7e1" ddi="true" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd441s8" text="If any signs or symptoms occur physicians should consider discontinuation of either one or both agents (ZYVOX or concomitant serotonergic agents)">
+        <entity id="DDI-DrugBankd441s8e0" charOffset="104-108"
+            type="brand" text="ZYVOX"/>
+        <entity id="DDI-DrugBankd441s8e1" charOffset="125-143"
+            type="group" text="serotonergic agents"/>
+        <pair id="DDI-DrugBankd441s8p0" e1="DDI-DrugBankd441s8e0"
+            e2="DDI-DrugBankd441s8e1" ddi="true" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd441s9" text="Drug-Laboratory Test Interactions There are no reported drug-laboratory test interactions"/>
+</document>

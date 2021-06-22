@@ -1,0 +1,167 @@
+<?xml version="10" encoding="UTF-8"?>
+<document id="DDI-DrugBankd468">
+    <sentence id="DDI-DrugBankd468s0" text="Beta-Blockers: In controlled clinical studies, adrenergic beta-receptor blockers have been frequently administered concomitantly with nicardipine HCl">
+        <entity id="DDI-DrugBankd468s0e0" charOffset="0-12"
+            type="group" text="Beta-Blockers"/>
+        <entity id="DDI-DrugBankd468s0e1" charOffset="47-79"
+            type="group" text="adrenergic beta-receptor blockers"/>
+        <entity id="DDI-DrugBankd468s0e2" charOffset="134-148"
+            type="drug" text="nicardipine HCl"/>
+        <pair id="DDI-DrugBankd468s0p0" e1="DDI-DrugBankd468s0e0"
+            e2="DDI-DrugBankd468s0e1" ddi="false"/>
+        <pair id="DDI-DrugBankd468s0p1" e1="DDI-DrugBankd468s0e0"
+            e2="DDI-DrugBankd468s0e2" ddi="false"/>
+        <pair id="DDI-DrugBankd468s0p2" e1="DDI-DrugBankd468s0e1"
+            e2="DDI-DrugBankd468s0e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd468s1" text="The combination is well tolerated"/>
+    <sentence id="DDI-DrugBankd468s2" text="Cimetidine: Cimetidine increases nicardipine HCl plasma levels">
+        <entity id="DDI-DrugBankd468s2e0" charOffset="0-9"
+            type="drug" text="Cimetidine"/>
+        <entity id="DDI-DrugBankd468s2e1" charOffset="12-21"
+            type="drug" text="Cimetidine"/>
+        <entity id="DDI-DrugBankd468s2e2" charOffset="33-47"
+            type="drug" text="nicardipine HCl"/>
+        <pair id="DDI-DrugBankd468s2p0" e1="DDI-DrugBankd468s2e0"
+            e2="DDI-DrugBankd468s2e1" ddi="false"/>
+        <pair id="DDI-DrugBankd468s2p1" e1="DDI-DrugBankd468s2e0"
+            e2="DDI-DrugBankd468s2e2" ddi="false"/>
+        <pair id="DDI-DrugBankd468s2p2" e1="DDI-DrugBankd468s2e1"
+            e2="DDI-DrugBankd468s2e2" ddi="true" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd468s3" text="Patients receiving the two drugs concomitantly should be carefully monitored"/>
+    <sentence id="DDI-DrugBankd468s4" text="Digoxin: Some calcium blockers may increase the concentration of digitalis preparations in the blood">
+        <entity id="DDI-DrugBankd468s4e0" charOffset="0-6"
+            type="drug" text="Digoxin"/>
+        <entity id="DDI-DrugBankd468s4e1" charOffset="14-29"
+            type="group" text="calcium blockers"/>
+        <entity id="DDI-DrugBankd468s4e2" charOffset="65-86"
+            type="group" text="digitalis preparations"/>
+        <pair id="DDI-DrugBankd468s4p0" e1="DDI-DrugBankd468s4e0"
+            e2="DDI-DrugBankd468s4e1" ddi="false"/>
+        <pair id="DDI-DrugBankd468s4p1" e1="DDI-DrugBankd468s4e0"
+            e2="DDI-DrugBankd468s4e2" ddi="false"/>
+        <pair id="DDI-DrugBankd468s4p2" e1="DDI-DrugBankd468s4e1"
+            e2="DDI-DrugBankd468s4e2" ddi="true" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd468s5" text="Nicardipine HCl usually does not alter the plasma levels of digoxin, however, serum digoxin levels should be evaluated after concomitant therapy with nicardipine HCl is initiated">
+        <entity id="DDI-DrugBankd468s5e0" charOffset="0-14"
+            type="drug" text="Nicardipine HCl"/>
+        <entity id="DDI-DrugBankd468s5e1" charOffset="60-66"
+            type="drug" text="digoxin"/>
+        <entity id="DDI-DrugBankd468s5e2" charOffset="84-90"
+            type="drug" text="digoxin"/>
+        <entity id="DDI-DrugBankd468s5e3" charOffset="150-164"
+            type="drug" text="nicardipine HCl"/>
+        <pair id="DDI-DrugBankd468s5p0" e1="DDI-DrugBankd468s5e0"
+            e2="DDI-DrugBankd468s5e1" ddi="false"/>
+        <pair id="DDI-DrugBankd468s5p1" e1="DDI-DrugBankd468s5e0"
+            e2="DDI-DrugBankd468s5e2" ddi="false"/>
+        <pair id="DDI-DrugBankd468s5p2" e1="DDI-DrugBankd468s5e0"
+            e2="DDI-DrugBankd468s5e3" ddi="false"/>
+        <pair id="DDI-DrugBankd468s5p3" e1="DDI-DrugBankd468s5e1"
+            e2="DDI-DrugBankd468s5e2" ddi="false"/>
+        <pair id="DDI-DrugBankd468s5p4" e1="DDI-DrugBankd468s5e1"
+            e2="DDI-DrugBankd468s5e3" ddi="false"/>
+        <pair id="DDI-DrugBankd468s5p5" e1="DDI-DrugBankd468s5e2"
+            e2="DDI-DrugBankd468s5e3" ddi="true" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd468s6" text="Maalox * Coadministration of Maalox TC had no effect on nicardipine HCl absorption">
+        <entity id="DDI-DrugBankd468s6e0" charOffset="0-5"
+            type="brand" text="Maalox"/>
+        <entity id="DDI-DrugBankd468s6e1" charOffset="29-37"
+            type="brand" text="Maalox TC"/>
+        <entity id="DDI-DrugBankd468s6e2" charOffset="56-70"
+            type="drug" text="nicardipine HCl"/>
+        <pair id="DDI-DrugBankd468s6p0" e1="DDI-DrugBankd468s6e0"
+            e2="DDI-DrugBankd468s6e1" ddi="false"/>
+        <pair id="DDI-DrugBankd468s6p1" e1="DDI-DrugBankd468s6e0"
+            e2="DDI-DrugBankd468s6e2" ddi="false"/>
+        <pair id="DDI-DrugBankd468s6p2" e1="DDI-DrugBankd468s6e1"
+            e2="DDI-DrugBankd468s6e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd468s7" text="Even though such interactions were not seen during clinical studies with nicardipine HCl, an increased volume of circulating fluids might be required if such an interaction were to occur">
+        <entity id="DDI-DrugBankd468s7e0" charOffset="73-87"
+            type="drug" text="nicardipine HCl"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd468s8" text="Cyclosporine: Concomitant administration of nicardipine and cyclosporine levels">
+        <entity id="DDI-DrugBankd468s8e0" charOffset="0-11"
+            type="drug" text="Cyclosporine"/>
+        <entity id="DDI-DrugBankd468s8e1" charOffset="44-54"
+            type="drug" text="nicardipine"/>
+        <entity id="DDI-DrugBankd468s8e2" charOffset="60-71"
+            type="drug" text="cyclosporine"/>
+        <pair id="DDI-DrugBankd468s8p0" e1="DDI-DrugBankd468s8e0"
+            e2="DDI-DrugBankd468s8e1" ddi="false"/>
+        <pair id="DDI-DrugBankd468s8p1" e1="DDI-DrugBankd468s8e0"
+            e2="DDI-DrugBankd468s8e2" ddi="false"/>
+        <pair id="DDI-DrugBankd468s8p2" e1="DDI-DrugBankd468s8e1"
+            e2="DDI-DrugBankd468s8e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd468s9" text="Plasma concentrations of cyclosporine should therefore be closely monitored, and its dosage reduced accordingly, in patients treated with nicardipine">
+        <entity id="DDI-DrugBankd468s9e0" charOffset="25-36"
+            type="drug" text="cyclosporine"/>
+        <entity id="DDI-DrugBankd468s9e1" charOffset="138-148"
+            type="drug" text="nicardipine"/>
+        <pair id="DDI-DrugBankd468s9p0" e1="DDI-DrugBankd468s9e0"
+            e2="DDI-DrugBankd468s9e1" ddi="true" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd468s10" text="When therapeutic concentrations of furosemide, propranolol, dipyridamole, warfarin, quinidine, or naproxen were added to human plasma (in vitro), the plasma protein binding of nicardipine HCl was not altered">
+        <entity id="DDI-DrugBankd468s10e0" charOffset="35-44"
+            type="drug" text="furosemide"/>
+        <entity id="DDI-DrugBankd468s10e1" charOffset="47-57"
+            type="drug" text="propranolol"/>
+        <entity id="DDI-DrugBankd468s10e2" charOffset="60-71"
+            type="drug" text="dipyridamole"/>
+        <entity id="DDI-DrugBankd468s10e3" charOffset="74-81"
+            type="drug" text="warfarin"/>
+        <entity id="DDI-DrugBankd468s10e4" charOffset="84-92"
+            type="drug" text="quinidine"/>
+        <entity id="DDI-DrugBankd468s10e5" charOffset="98-105"
+            type="drug" text="naproxen"/>
+        <entity id="DDI-DrugBankd468s10e6" charOffset="176-190"
+            type="drug" text="nicardipine HCl"/>
+        <pair id="DDI-DrugBankd468s10p0"
+            e1="DDI-DrugBankd468s10e0" e2="DDI-DrugBankd468s10e1" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p1"
+            e1="DDI-DrugBankd468s10e0" e2="DDI-DrugBankd468s10e2" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p2"
+            e1="DDI-DrugBankd468s10e0" e2="DDI-DrugBankd468s10e3" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p3"
+            e1="DDI-DrugBankd468s10e0" e2="DDI-DrugBankd468s10e4" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p4"
+            e1="DDI-DrugBankd468s10e0" e2="DDI-DrugBankd468s10e5" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p5"
+            e1="DDI-DrugBankd468s10e0" e2="DDI-DrugBankd468s10e6" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p6"
+            e1="DDI-DrugBankd468s10e1" e2="DDI-DrugBankd468s10e2" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p7"
+            e1="DDI-DrugBankd468s10e1" e2="DDI-DrugBankd468s10e3" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p8"
+            e1="DDI-DrugBankd468s10e1" e2="DDI-DrugBankd468s10e4" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p9"
+            e1="DDI-DrugBankd468s10e1" e2="DDI-DrugBankd468s10e5" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p10"
+            e1="DDI-DrugBankd468s10e1" e2="DDI-DrugBankd468s10e6" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p11"
+            e1="DDI-DrugBankd468s10e2" e2="DDI-DrugBankd468s10e3" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p12"
+            e1="DDI-DrugBankd468s10e2" e2="DDI-DrugBankd468s10e4" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p13"
+            e1="DDI-DrugBankd468s10e2" e2="DDI-DrugBankd468s10e5" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p14"
+            e1="DDI-DrugBankd468s10e2" e2="DDI-DrugBankd468s10e6" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p15"
+            e1="DDI-DrugBankd468s10e3" e2="DDI-DrugBankd468s10e4" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p16"
+            e1="DDI-DrugBankd468s10e3" e2="DDI-DrugBankd468s10e5" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p17"
+            e1="DDI-DrugBankd468s10e3" e2="DDI-DrugBankd468s10e6" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p18"
+            e1="DDI-DrugBankd468s10e4" e2="DDI-DrugBankd468s10e5" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p19"
+            e1="DDI-DrugBankd468s10e4" e2="DDI-DrugBankd468s10e6" ddi="false"/>
+        <pair id="DDI-DrugBankd468s10p20"
+            e1="DDI-DrugBankd468s10e5" e2="DDI-DrugBankd468s10e6" ddi="false"/>
+    </sentence>
+</document>

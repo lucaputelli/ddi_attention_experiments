@@ -1,0 +1,621 @@
+<?xml version="10" encoding="UTF-8"?>
+<document id="DDI-DrugBankd48">
+    <sentence id="DDI-DrugBankd48s0" text="Drugs that may increase dasatinib plasma concentrations CYP3A4 Inhibitors: Dasatinib is a CYP3A4 substrate">
+        <entity id="DDI-DrugBankd48s0e0" charOffset="24-32"
+            type="drug" text="dasatinib"/>
+        <entity id="DDI-DrugBankd48s0e1" charOffset="75-83"
+            type="drug" text="Dasatinib"/>
+        <pair id="DDI-DrugBankd48s0p0" e1="DDI-DrugBankd48s0e0"
+            e2="DDI-DrugBankd48s0e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s1" text="Concomitant use of SPRYCEL and drugs that inhibit CYP3A4 (eg, ketoconazole, itraconazole, erythromycin, clarithromycin, ritonavir, atazanavir, indinavir, nefazodone, nelfinavir, saquinavir, telithromycin) may increase exposure to dasatinib and should be avoided">
+        <entity id="DDI-DrugBankd48s1e0" charOffset="19-25"
+            type="brand" text="SPRYCEL"/>
+        <entity id="DDI-DrugBankd48s1e1" charOffset="62-73"
+            type="drug" text="ketoconazole"/>
+        <entity id="DDI-DrugBankd48s1e2" charOffset="76-87"
+            type="drug" text="itraconazole"/>
+        <entity id="DDI-DrugBankd48s1e3" charOffset="90-101"
+            type="drug" text="erythromycin"/>
+        <entity id="DDI-DrugBankd48s1e4" charOffset="104-117"
+            type="drug" text="clarithromycin"/>
+        <entity id="DDI-DrugBankd48s1e5" charOffset="120-128"
+            type="drug" text="ritonavir"/>
+        <entity id="DDI-DrugBankd48s1e6" charOffset="131-140"
+            type="drug" text="atazanavir"/>
+        <entity id="DDI-DrugBankd48s1e7" charOffset="143-151"
+            type="drug" text="indinavir"/>
+        <entity id="DDI-DrugBankd48s1e8" charOffset="154-163"
+            type="drug" text="nefazodone"/>
+        <entity id="DDI-DrugBankd48s1e9" charOffset="166-175"
+            type="drug" text="nelfinavir"/>
+        <entity id="DDI-DrugBankd48s1e10" charOffset="178-187"
+            type="drug" text="saquinavir"/>
+        <entity id="DDI-DrugBankd48s1e11" charOffset="190-202"
+            type="drug" text="telithromycin"/>
+        <entity id="DDI-DrugBankd48s1e12" charOffset="230-238"
+            type="drug" text="dasatinib"/>
+        <pair id="DDI-DrugBankd48s1p0" e1="DDI-DrugBankd48s1e0"
+            e2="DDI-DrugBankd48s1e1" ddi="true" type="mechanism"/>
+        <pair id="DDI-DrugBankd48s1p1" e1="DDI-DrugBankd48s1e0"
+            e2="DDI-DrugBankd48s1e2" ddi="true" type="mechanism"/>
+        <pair id="DDI-DrugBankd48s1p2" e1="DDI-DrugBankd48s1e0"
+            e2="DDI-DrugBankd48s1e3" ddi="true" type="mechanism"/>
+        <pair id="DDI-DrugBankd48s1p3" e1="DDI-DrugBankd48s1e0"
+            e2="DDI-DrugBankd48s1e4" ddi="true" type="mechanism"/>
+        <pair id="DDI-DrugBankd48s1p4" e1="DDI-DrugBankd48s1e0"
+            e2="DDI-DrugBankd48s1e5" ddi="true" type="mechanism"/>
+        <pair id="DDI-DrugBankd48s1p5" e1="DDI-DrugBankd48s1e0"
+            e2="DDI-DrugBankd48s1e6" ddi="true" type="mechanism"/>
+        <pair id="DDI-DrugBankd48s1p6" e1="DDI-DrugBankd48s1e0"
+            e2="DDI-DrugBankd48s1e7" ddi="true" type="mechanism"/>
+        <pair id="DDI-DrugBankd48s1p7" e1="DDI-DrugBankd48s1e0"
+            e2="DDI-DrugBankd48s1e8" ddi="true" type="mechanism"/>
+        <pair id="DDI-DrugBankd48s1p8" e1="DDI-DrugBankd48s1e0"
+            e2="DDI-DrugBankd48s1e9" ddi="true" type="mechanism"/>
+        <pair id="DDI-DrugBankd48s1p9" e1="DDI-DrugBankd48s1e0"
+            e2="DDI-DrugBankd48s1e10" ddi="true" type="mechanism"/>
+        <pair id="DDI-DrugBankd48s1p10" e1="DDI-DrugBankd48s1e0"
+            e2="DDI-DrugBankd48s1e11" ddi="true" type="mechanism"/>
+        <pair id="DDI-DrugBankd48s1p11" e1="DDI-DrugBankd48s1e0"
+            e2="DDI-DrugBankd48s1e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p12" e1="DDI-DrugBankd48s1e1"
+            e2="DDI-DrugBankd48s1e2" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p13" e1="DDI-DrugBankd48s1e1"
+            e2="DDI-DrugBankd48s1e3" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p14" e1="DDI-DrugBankd48s1e1"
+            e2="DDI-DrugBankd48s1e4" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p15" e1="DDI-DrugBankd48s1e1"
+            e2="DDI-DrugBankd48s1e5" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p16" e1="DDI-DrugBankd48s1e1"
+            e2="DDI-DrugBankd48s1e6" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p17" e1="DDI-DrugBankd48s1e1"
+            e2="DDI-DrugBankd48s1e7" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p18" e1="DDI-DrugBankd48s1e1"
+            e2="DDI-DrugBankd48s1e8" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p19" e1="DDI-DrugBankd48s1e1"
+            e2="DDI-DrugBankd48s1e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p20" e1="DDI-DrugBankd48s1e1"
+            e2="DDI-DrugBankd48s1e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p21" e1="DDI-DrugBankd48s1e1"
+            e2="DDI-DrugBankd48s1e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p22" e1="DDI-DrugBankd48s1e1"
+            e2="DDI-DrugBankd48s1e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p23" e1="DDI-DrugBankd48s1e2"
+            e2="DDI-DrugBankd48s1e3" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p24" e1="DDI-DrugBankd48s1e2"
+            e2="DDI-DrugBankd48s1e4" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p25" e1="DDI-DrugBankd48s1e2"
+            e2="DDI-DrugBankd48s1e5" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p26" e1="DDI-DrugBankd48s1e2"
+            e2="DDI-DrugBankd48s1e6" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p27" e1="DDI-DrugBankd48s1e2"
+            e2="DDI-DrugBankd48s1e7" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p28" e1="DDI-DrugBankd48s1e2"
+            e2="DDI-DrugBankd48s1e8" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p29" e1="DDI-DrugBankd48s1e2"
+            e2="DDI-DrugBankd48s1e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p30" e1="DDI-DrugBankd48s1e2"
+            e2="DDI-DrugBankd48s1e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p31" e1="DDI-DrugBankd48s1e2"
+            e2="DDI-DrugBankd48s1e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p32" e1="DDI-DrugBankd48s1e2"
+            e2="DDI-DrugBankd48s1e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p33" e1="DDI-DrugBankd48s1e3"
+            e2="DDI-DrugBankd48s1e4" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p34" e1="DDI-DrugBankd48s1e3"
+            e2="DDI-DrugBankd48s1e5" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p35" e1="DDI-DrugBankd48s1e3"
+            e2="DDI-DrugBankd48s1e6" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p36" e1="DDI-DrugBankd48s1e3"
+            e2="DDI-DrugBankd48s1e7" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p37" e1="DDI-DrugBankd48s1e3"
+            e2="DDI-DrugBankd48s1e8" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p38" e1="DDI-DrugBankd48s1e3"
+            e2="DDI-DrugBankd48s1e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p39" e1="DDI-DrugBankd48s1e3"
+            e2="DDI-DrugBankd48s1e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p40" e1="DDI-DrugBankd48s1e3"
+            e2="DDI-DrugBankd48s1e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p41" e1="DDI-DrugBankd48s1e3"
+            e2="DDI-DrugBankd48s1e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p42" e1="DDI-DrugBankd48s1e4"
+            e2="DDI-DrugBankd48s1e5" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p43" e1="DDI-DrugBankd48s1e4"
+            e2="DDI-DrugBankd48s1e6" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p44" e1="DDI-DrugBankd48s1e4"
+            e2="DDI-DrugBankd48s1e7" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p45" e1="DDI-DrugBankd48s1e4"
+            e2="DDI-DrugBankd48s1e8" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p46" e1="DDI-DrugBankd48s1e4"
+            e2="DDI-DrugBankd48s1e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p47" e1="DDI-DrugBankd48s1e4"
+            e2="DDI-DrugBankd48s1e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p48" e1="DDI-DrugBankd48s1e4"
+            e2="DDI-DrugBankd48s1e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p49" e1="DDI-DrugBankd48s1e4"
+            e2="DDI-DrugBankd48s1e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p50" e1="DDI-DrugBankd48s1e5"
+            e2="DDI-DrugBankd48s1e6" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p51" e1="DDI-DrugBankd48s1e5"
+            e2="DDI-DrugBankd48s1e7" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p52" e1="DDI-DrugBankd48s1e5"
+            e2="DDI-DrugBankd48s1e8" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p53" e1="DDI-DrugBankd48s1e5"
+            e2="DDI-DrugBankd48s1e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p54" e1="DDI-DrugBankd48s1e5"
+            e2="DDI-DrugBankd48s1e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p55" e1="DDI-DrugBankd48s1e5"
+            e2="DDI-DrugBankd48s1e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p56" e1="DDI-DrugBankd48s1e5"
+            e2="DDI-DrugBankd48s1e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p57" e1="DDI-DrugBankd48s1e6"
+            e2="DDI-DrugBankd48s1e7" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p58" e1="DDI-DrugBankd48s1e6"
+            e2="DDI-DrugBankd48s1e8" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p59" e1="DDI-DrugBankd48s1e6"
+            e2="DDI-DrugBankd48s1e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p60" e1="DDI-DrugBankd48s1e6"
+            e2="DDI-DrugBankd48s1e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p61" e1="DDI-DrugBankd48s1e6"
+            e2="DDI-DrugBankd48s1e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p62" e1="DDI-DrugBankd48s1e6"
+            e2="DDI-DrugBankd48s1e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p63" e1="DDI-DrugBankd48s1e7"
+            e2="DDI-DrugBankd48s1e8" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p64" e1="DDI-DrugBankd48s1e7"
+            e2="DDI-DrugBankd48s1e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p65" e1="DDI-DrugBankd48s1e7"
+            e2="DDI-DrugBankd48s1e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p66" e1="DDI-DrugBankd48s1e7"
+            e2="DDI-DrugBankd48s1e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p67" e1="DDI-DrugBankd48s1e7"
+            e2="DDI-DrugBankd48s1e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p68" e1="DDI-DrugBankd48s1e8"
+            e2="DDI-DrugBankd48s1e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p69" e1="DDI-DrugBankd48s1e8"
+            e2="DDI-DrugBankd48s1e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p70" e1="DDI-DrugBankd48s1e8"
+            e2="DDI-DrugBankd48s1e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p71" e1="DDI-DrugBankd48s1e8"
+            e2="DDI-DrugBankd48s1e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p72" e1="DDI-DrugBankd48s1e9"
+            e2="DDI-DrugBankd48s1e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p73" e1="DDI-DrugBankd48s1e9"
+            e2="DDI-DrugBankd48s1e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p74" e1="DDI-DrugBankd48s1e9"
+            e2="DDI-DrugBankd48s1e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p75" e1="DDI-DrugBankd48s1e10"
+            e2="DDI-DrugBankd48s1e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p76" e1="DDI-DrugBankd48s1e10"
+            e2="DDI-DrugBankd48s1e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s1p77" e1="DDI-DrugBankd48s1e11"
+            e2="DDI-DrugBankd48s1e12" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s2" text="In patients receiving treatment with SPRYCEL, close monitoring for toxicity and a SPRYCEL dose reduction should be considered if systemic administration of a potent CYP3A4 inhibitor cannot be avoided">
+        <entity id="DDI-DrugBankd48s2e0" charOffset="37-43"
+            type="brand" text="SPRYCEL"/>
+        <entity id="DDI-DrugBankd48s2e1" charOffset="82-88"
+            type="brand" text="SPRYCEL"/>
+        <pair id="DDI-DrugBankd48s2p0" e1="DDI-DrugBankd48s2e0"
+            e2="DDI-DrugBankd48s2e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s3" text="Drugs that may decrease dasatinib plasma concentrations CYP3A4 Inducers: Drugs that induce CYP3A4 activity may decrease dasatinib plasma concentrations">
+        <entity id="DDI-DrugBankd48s3e0" charOffset="24-32"
+            type="drug" text="dasatinib"/>
+        <entity id="DDI-DrugBankd48s3e1" charOffset="120-128"
+            type="drug" text="dasatinib"/>
+        <pair id="DDI-DrugBankd48s3p0" e1="DDI-DrugBankd48s3e0"
+            e2="DDI-DrugBankd48s3e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s4" text="In patients in whom CYP3A4 inducers (eg, dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital) are indicated, alternative agents with less enzyme induction potential should be used">
+        <entity id="DDI-DrugBankd48s4e0" charOffset="41-53"
+            type="drug" text="dexamethasone"/>
+        <entity id="DDI-DrugBankd48s4e1" charOffset="56-64"
+            type="drug" text="phenytoin"/>
+        <entity id="DDI-DrugBankd48s4e2" charOffset="67-79"
+            type="drug" text="carbamazepine"/>
+        <entity id="DDI-DrugBankd48s4e3" charOffset="82-91"
+            type="drug" text="rifampicin"/>
+        <entity id="DDI-DrugBankd48s4e4" charOffset="94-106"
+            type="drug" text="phenobarbital"/>
+        <pair id="DDI-DrugBankd48s4p0" e1="DDI-DrugBankd48s4e0"
+            e2="DDI-DrugBankd48s4e1" ddi="false"/>
+        <pair id="DDI-DrugBankd48s4p1" e1="DDI-DrugBankd48s4e0"
+            e2="DDI-DrugBankd48s4e2" ddi="false"/>
+        <pair id="DDI-DrugBankd48s4p2" e1="DDI-DrugBankd48s4e0"
+            e2="DDI-DrugBankd48s4e3" ddi="false"/>
+        <pair id="DDI-DrugBankd48s4p3" e1="DDI-DrugBankd48s4e0"
+            e2="DDI-DrugBankd48s4e4" ddi="false"/>
+        <pair id="DDI-DrugBankd48s4p4" e1="DDI-DrugBankd48s4e1"
+            e2="DDI-DrugBankd48s4e2" ddi="false"/>
+        <pair id="DDI-DrugBankd48s4p5" e1="DDI-DrugBankd48s4e1"
+            e2="DDI-DrugBankd48s4e3" ddi="false"/>
+        <pair id="DDI-DrugBankd48s4p6" e1="DDI-DrugBankd48s4e1"
+            e2="DDI-DrugBankd48s4e4" ddi="false"/>
+        <pair id="DDI-DrugBankd48s4p7" e1="DDI-DrugBankd48s4e2"
+            e2="DDI-DrugBankd48s4e3" ddi="false"/>
+        <pair id="DDI-DrugBankd48s4p8" e1="DDI-DrugBankd48s4e2"
+            e2="DDI-DrugBankd48s4e4" ddi="false"/>
+        <pair id="DDI-DrugBankd48s4p9" e1="DDI-DrugBankd48s4e3"
+            e2="DDI-DrugBankd48s4e4" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s5" text="If SPRYCEL must be administered with a CYP3A4 inducer, a dose increase in SPRYCEL should be considered">
+        <entity id="DDI-DrugBankd48s5e0" charOffset="3-9"
+            type="brand" text="SPRYCEL"/>
+        <entity id="DDI-DrugBankd48s5e1" charOffset="74-80"
+            type="brand" text="SPRYCEL"/>
+        <pair id="DDI-DrugBankd48s5p0" e1="DDI-DrugBankd48s5e0"
+            e2="DDI-DrugBankd48s5e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s6" text="St Johns wort (Hypericum perforatum) may decrease SPRYCEL plasma concentrations unpredictably">
+        <entity id="DDI-DrugBankd48s6e0" charOffset="51-57"
+            type="brand" text="SPRYCEL"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s7" text="Patients receiving SPRYCEL should not take St Johns wort">
+        <entity id="DDI-DrugBankd48s7e0" charOffset="19-25"
+            type="brand" text="SPRYCEL"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s8" text="Antacids: Nonclinical data demonstrate that the solubility of dasatinib is pH dependent">
+        <entity id="DDI-DrugBankd48s8e0" charOffset="0-7"
+            type="group" text="Antacids"/>
+        <entity id="DDI-DrugBankd48s8e1" charOffset="62-70"
+            type="drug" text="dasatinib"/>
+        <pair id="DDI-DrugBankd48s8p0" e1="DDI-DrugBankd48s8e0"
+            e2="DDI-DrugBankd48s8e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s9" text="Simultaneous administration of SPRYCEL with antacids should be avoided">
+        <entity id="DDI-DrugBankd48s9e0" charOffset="31-37"
+            type="brand" text="SPRYCEL"/>
+        <entity id="DDI-DrugBankd48s9e1" charOffset="44-51"
+            type="group" text="antacids"/>
+        <pair id="DDI-DrugBankd48s9p0" e1="DDI-DrugBankd48s9e0"
+            e2="DDI-DrugBankd48s9e1" ddi="true" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s10" text="If antacid therapy is needed, the antacid dose should be administered at least 2 hours prior to or 2 hours after the dose of SPRYCEL">
+        <entity id="DDI-DrugBankd48s10e0" charOffset="3-9"
+            type="group" text="antacid"/>
+        <entity id="DDI-DrugBankd48s10e1" charOffset="125-131"
+            type="brand" text="SPRYCEL"/>
+        <pair id="DDI-DrugBankd48s10p0" e1="DDI-DrugBankd48s10e0"
+            e2="DDI-DrugBankd48s10e1" ddi="true" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s11" text="H2 Blockers/Proton Pump Inhibitors: Long-term suppression of gastric acid secretion by H2 blockers or proton pump inhibitors (eg, famotidine and omeprazole) is likely to reduce dasatinib exposure">
+        <entity id="DDI-DrugBankd48s11e0" charOffset="0-10"
+            type="group" text="H2 Blockers"/>
+        <entity id="DDI-DrugBankd48s11e1" charOffset="12-33"
+            type="group" text="Proton Pump Inhibitors"/>
+        <entity id="DDI-DrugBankd48s11e2" charOffset="87-97"
+            type="group" text="H2 blockers"/>
+        <entity id="DDI-DrugBankd48s11e3" charOffset="102-123"
+            type="group" text="proton pump inhibitors"/>
+        <entity id="DDI-DrugBankd48s11e4" charOffset="130-139"
+            type="drug" text="famotidine"/>
+        <entity id="DDI-DrugBankd48s11e5" charOffset="145-154"
+            type="drug" text="omeprazole"/>
+        <entity id="DDI-DrugBankd48s11e6" charOffset="177-185"
+            type="drug" text="dasatinib"/>
+        <pair id="DDI-DrugBankd48s11p0" e1="DDI-DrugBankd48s11e0"
+            e2="DDI-DrugBankd48s11e1" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p1" e1="DDI-DrugBankd48s11e0"
+            e2="DDI-DrugBankd48s11e2" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p2" e1="DDI-DrugBankd48s11e0"
+            e2="DDI-DrugBankd48s11e3" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p3" e1="DDI-DrugBankd48s11e0"
+            e2="DDI-DrugBankd48s11e4" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p4" e1="DDI-DrugBankd48s11e0"
+            e2="DDI-DrugBankd48s11e5" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p5" e1="DDI-DrugBankd48s11e0"
+            e2="DDI-DrugBankd48s11e6" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p6" e1="DDI-DrugBankd48s11e1"
+            e2="DDI-DrugBankd48s11e2" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p7" e1="DDI-DrugBankd48s11e1"
+            e2="DDI-DrugBankd48s11e3" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p8" e1="DDI-DrugBankd48s11e1"
+            e2="DDI-DrugBankd48s11e4" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p9" e1="DDI-DrugBankd48s11e1"
+            e2="DDI-DrugBankd48s11e5" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p10" e1="DDI-DrugBankd48s11e1"
+            e2="DDI-DrugBankd48s11e6" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p11" e1="DDI-DrugBankd48s11e2"
+            e2="DDI-DrugBankd48s11e3" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p12" e1="DDI-DrugBankd48s11e2"
+            e2="DDI-DrugBankd48s11e4" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p13" e1="DDI-DrugBankd48s11e2"
+            e2="DDI-DrugBankd48s11e5" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p14" e1="DDI-DrugBankd48s11e2"
+            e2="DDI-DrugBankd48s11e6" ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd48s11p15" e1="DDI-DrugBankd48s11e3"
+            e2="DDI-DrugBankd48s11e4" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p16" e1="DDI-DrugBankd48s11e3"
+            e2="DDI-DrugBankd48s11e5" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p17" e1="DDI-DrugBankd48s11e3"
+            e2="DDI-DrugBankd48s11e6" ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd48s11p18" e1="DDI-DrugBankd48s11e4"
+            e2="DDI-DrugBankd48s11e5" ddi="false"/>
+        <pair id="DDI-DrugBankd48s11p19" e1="DDI-DrugBankd48s11e4"
+            e2="DDI-DrugBankd48s11e6" ddi="true" type="effect"/>
+        <pair id="DDI-DrugBankd48s11p20" e1="DDI-DrugBankd48s11e5"
+            e2="DDI-DrugBankd48s11e6" ddi="true" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s12" text="The concomitant use of H2 blockers or proton pump inhibitors with SPRYCEL is not recommended">
+        <entity id="DDI-DrugBankd48s12e0" charOffset="23-33"
+            type="group" text="H2 blockers"/>
+        <entity id="DDI-DrugBankd48s12e1" charOffset="38-59"
+            type="group" text="proton pump inhibitors"/>
+        <entity id="DDI-DrugBankd48s12e2" charOffset="66-72"
+            type="brand" text="SPRYCEL"/>
+        <pair id="DDI-DrugBankd48s12p0" e1="DDI-DrugBankd48s12e0"
+            e2="DDI-DrugBankd48s12e1" ddi="false"/>
+        <pair id="DDI-DrugBankd48s12p1" e1="DDI-DrugBankd48s12e0"
+            e2="DDI-DrugBankd48s12e2" ddi="true" type="advise"/>
+        <pair id="DDI-DrugBankd48s12p2" e1="DDI-DrugBankd48s12e1"
+            e2="DDI-DrugBankd48s12e2" ddi="true" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s13" text="The use of antacids should be considered in place of H2 blockers or proton pump inhibitors in patients receiving SPRYCEL therapy">
+        <entity id="DDI-DrugBankd48s13e0" charOffset="11-18"
+            type="group" text="antacids"/>
+        <entity id="DDI-DrugBankd48s13e1" charOffset="53-63"
+            type="group" text="H2 blockers"/>
+        <entity id="DDI-DrugBankd48s13e2" charOffset="68-89"
+            type="group" text="proton pump inhibitors"/>
+        <entity id="DDI-DrugBankd48s13e3" charOffset="113-119"
+            type="brand" text="SPRYCEL"/>
+        <pair id="DDI-DrugBankd48s13p0" e1="DDI-DrugBankd48s13e0"
+            e2="DDI-DrugBankd48s13e1" ddi="false"/>
+        <pair id="DDI-DrugBankd48s13p1" e1="DDI-DrugBankd48s13e0"
+            e2="DDI-DrugBankd48s13e2" ddi="false"/>
+        <pair id="DDI-DrugBankd48s13p2" e1="DDI-DrugBankd48s13e0"
+            e2="DDI-DrugBankd48s13e3" ddi="false"/>
+        <pair id="DDI-DrugBankd48s13p3" e1="DDI-DrugBankd48s13e1"
+            e2="DDI-DrugBankd48s13e2" ddi="false"/>
+        <pair id="DDI-DrugBankd48s13p4" e1="DDI-DrugBankd48s13e1"
+            e2="DDI-DrugBankd48s13e3" ddi="true" type="advise"/>
+        <pair id="DDI-DrugBankd48s13p5" e1="DDI-DrugBankd48s13e2"
+            e2="DDI-DrugBankd48s13e3" ddi="true" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s14" text="Drugs that may have their plasma concentration altered by dasatinib CYP3A4 Substrates: Dasatinib is a time-dependent inhibitor of CYP3A4">
+        <entity id="DDI-DrugBankd48s14e0" charOffset="58-66"
+            type="drug" text="dasatinib"/>
+        <entity id="DDI-DrugBankd48s14e1" charOffset="87-95"
+            type="drug" text="Dasatinib"/>
+        <pair id="DDI-DrugBankd48s14p0" e1="DDI-DrugBankd48s14e0"
+            e2="DDI-DrugBankd48s14e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s15" text="Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL">
+        <entity id="DDI-DrugBankd48s15e0" charOffset="78-87"
+            type="drug" text="alfentanil"/>
+        <entity id="DDI-DrugBankd48s15e1" charOffset="90-99"
+            type="drug" text="astemizole"/>
+        <entity id="DDI-DrugBankd48s15e2" charOffset="102-112"
+            type="drug" text="terfenadine"/>
+        <entity id="DDI-DrugBankd48s15e3" charOffset="115-123"
+            type="drug" text="cisapride"/>
+        <entity id="DDI-DrugBankd48s15e4" charOffset="126-137"
+            type="drug" text="cyclosporine"/>
+        <entity id="DDI-DrugBankd48s15e5" charOffset="140-147"
+            type="drug" text="fentanyl"/>
+        <entity id="DDI-DrugBankd48s15e6" charOffset="150-157"
+            type="drug" text="pimozide"/>
+        <entity id="DDI-DrugBankd48s15e7" charOffset="160-168"
+            type="drug" text="quinidine"/>
+        <entity id="DDI-DrugBankd48s15e8" charOffset="171-179"
+            type="drug" text="sirolimus"/>
+        <entity id="DDI-DrugBankd48s15e9" charOffset="182-191"
+            type="drug" text="tacrolimus"/>
+        <entity id="DDI-DrugBankd48s15e10" charOffset="197-211"
+            type="group" text="ergot alkaloids"/>
+        <entity id="DDI-DrugBankd48s15e11" charOffset="214-223"
+            type="drug" text="ergotamine"/>
+        <entity id="DDI-DrugBankd48s15e12" charOffset="226-242"
+            type="drug" text="dihydroergotamine"/>
+        <entity id="DDI-DrugBankd48s15e13" charOffset="303-309"
+            type="brand" text="SPRYCEL"/>
+        <pair id="DDI-DrugBankd48s15p0" e1="DDI-DrugBankd48s15e0"
+            e2="DDI-DrugBankd48s15e1" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p1" e1="DDI-DrugBankd48s15e0"
+            e2="DDI-DrugBankd48s15e2" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p2" e1="DDI-DrugBankd48s15e0"
+            e2="DDI-DrugBankd48s15e3" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p3" e1="DDI-DrugBankd48s15e0"
+            e2="DDI-DrugBankd48s15e4" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p4" e1="DDI-DrugBankd48s15e0"
+            e2="DDI-DrugBankd48s15e5" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p5" e1="DDI-DrugBankd48s15e0"
+            e2="DDI-DrugBankd48s15e6" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p6" e1="DDI-DrugBankd48s15e0"
+            e2="DDI-DrugBankd48s15e7" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p7" e1="DDI-DrugBankd48s15e0"
+            e2="DDI-DrugBankd48s15e8" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p8" e1="DDI-DrugBankd48s15e0"
+            e2="DDI-DrugBankd48s15e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p9" e1="DDI-DrugBankd48s15e0"
+            e2="DDI-DrugBankd48s15e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p10" e1="DDI-DrugBankd48s15e0"
+            e2="DDI-DrugBankd48s15e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p11" e1="DDI-DrugBankd48s15e0"
+            e2="DDI-DrugBankd48s15e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p12" e1="DDI-DrugBankd48s15e0"
+            e2="DDI-DrugBankd48s15e13" ddi="true" type="advise"/>
+        <pair id="DDI-DrugBankd48s15p13" e1="DDI-DrugBankd48s15e1"
+            e2="DDI-DrugBankd48s15e2" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p14" e1="DDI-DrugBankd48s15e1"
+            e2="DDI-DrugBankd48s15e3" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p15" e1="DDI-DrugBankd48s15e1"
+            e2="DDI-DrugBankd48s15e4" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p16" e1="DDI-DrugBankd48s15e1"
+            e2="DDI-DrugBankd48s15e5" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p17" e1="DDI-DrugBankd48s15e1"
+            e2="DDI-DrugBankd48s15e6" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p18" e1="DDI-DrugBankd48s15e1"
+            e2="DDI-DrugBankd48s15e7" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p19" e1="DDI-DrugBankd48s15e1"
+            e2="DDI-DrugBankd48s15e8" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p20" e1="DDI-DrugBankd48s15e1"
+            e2="DDI-DrugBankd48s15e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p21" e1="DDI-DrugBankd48s15e1"
+            e2="DDI-DrugBankd48s15e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p22" e1="DDI-DrugBankd48s15e1"
+            e2="DDI-DrugBankd48s15e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p23" e1="DDI-DrugBankd48s15e1"
+            e2="DDI-DrugBankd48s15e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p24" e1="DDI-DrugBankd48s15e1"
+            e2="DDI-DrugBankd48s15e13" ddi="true" type="advise"/>
+        <pair id="DDI-DrugBankd48s15p25" e1="DDI-DrugBankd48s15e2"
+            e2="DDI-DrugBankd48s15e3" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p26" e1="DDI-DrugBankd48s15e2"
+            e2="DDI-DrugBankd48s15e4" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p27" e1="DDI-DrugBankd48s15e2"
+            e2="DDI-DrugBankd48s15e5" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p28" e1="DDI-DrugBankd48s15e2"
+            e2="DDI-DrugBankd48s15e6" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p29" e1="DDI-DrugBankd48s15e2"
+            e2="DDI-DrugBankd48s15e7" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p30" e1="DDI-DrugBankd48s15e2"
+            e2="DDI-DrugBankd48s15e8" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p31" e1="DDI-DrugBankd48s15e2"
+            e2="DDI-DrugBankd48s15e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p32" e1="DDI-DrugBankd48s15e2"
+            e2="DDI-DrugBankd48s15e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p33" e1="DDI-DrugBankd48s15e2"
+            e2="DDI-DrugBankd48s15e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p34" e1="DDI-DrugBankd48s15e2"
+            e2="DDI-DrugBankd48s15e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p35" e1="DDI-DrugBankd48s15e2"
+            e2="DDI-DrugBankd48s15e13" ddi="true" type="advise"/>
+        <pair id="DDI-DrugBankd48s15p36" e1="DDI-DrugBankd48s15e3"
+            e2="DDI-DrugBankd48s15e4" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p37" e1="DDI-DrugBankd48s15e3"
+            e2="DDI-DrugBankd48s15e5" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p38" e1="DDI-DrugBankd48s15e3"
+            e2="DDI-DrugBankd48s15e6" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p39" e1="DDI-DrugBankd48s15e3"
+            e2="DDI-DrugBankd48s15e7" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p40" e1="DDI-DrugBankd48s15e3"
+            e2="DDI-DrugBankd48s15e8" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p41" e1="DDI-DrugBankd48s15e3"
+            e2="DDI-DrugBankd48s15e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p42" e1="DDI-DrugBankd48s15e3"
+            e2="DDI-DrugBankd48s15e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p43" e1="DDI-DrugBankd48s15e3"
+            e2="DDI-DrugBankd48s15e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p44" e1="DDI-DrugBankd48s15e3"
+            e2="DDI-DrugBankd48s15e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p45" e1="DDI-DrugBankd48s15e3"
+            e2="DDI-DrugBankd48s15e13" ddi="true" type="advise"/>
+        <pair id="DDI-DrugBankd48s15p46" e1="DDI-DrugBankd48s15e4"
+            e2="DDI-DrugBankd48s15e5" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p47" e1="DDI-DrugBankd48s15e4"
+            e2="DDI-DrugBankd48s15e6" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p48" e1="DDI-DrugBankd48s15e4"
+            e2="DDI-DrugBankd48s15e7" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p49" e1="DDI-DrugBankd48s15e4"
+            e2="DDI-DrugBankd48s15e8" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p50" e1="DDI-DrugBankd48s15e4"
+            e2="DDI-DrugBankd48s15e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p51" e1="DDI-DrugBankd48s15e4"
+            e2="DDI-DrugBankd48s15e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p52" e1="DDI-DrugBankd48s15e4"
+            e2="DDI-DrugBankd48s15e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p53" e1="DDI-DrugBankd48s15e4"
+            e2="DDI-DrugBankd48s15e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p54" e1="DDI-DrugBankd48s15e4"
+            e2="DDI-DrugBankd48s15e13" ddi="true" type="advise"/>
+        <pair id="DDI-DrugBankd48s15p55" e1="DDI-DrugBankd48s15e5"
+            e2="DDI-DrugBankd48s15e6" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p56" e1="DDI-DrugBankd48s15e5"
+            e2="DDI-DrugBankd48s15e7" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p57" e1="DDI-DrugBankd48s15e5"
+            e2="DDI-DrugBankd48s15e8" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p58" e1="DDI-DrugBankd48s15e5"
+            e2="DDI-DrugBankd48s15e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p59" e1="DDI-DrugBankd48s15e5"
+            e2="DDI-DrugBankd48s15e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p60" e1="DDI-DrugBankd48s15e5"
+            e2="DDI-DrugBankd48s15e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p61" e1="DDI-DrugBankd48s15e5"
+            e2="DDI-DrugBankd48s15e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p62" e1="DDI-DrugBankd48s15e5"
+            e2="DDI-DrugBankd48s15e13" ddi="true" type="advise"/>
+        <pair id="DDI-DrugBankd48s15p63" e1="DDI-DrugBankd48s15e6"
+            e2="DDI-DrugBankd48s15e7" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p64" e1="DDI-DrugBankd48s15e6"
+            e2="DDI-DrugBankd48s15e8" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p65" e1="DDI-DrugBankd48s15e6"
+            e2="DDI-DrugBankd48s15e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p66" e1="DDI-DrugBankd48s15e6"
+            e2="DDI-DrugBankd48s15e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p67" e1="DDI-DrugBankd48s15e6"
+            e2="DDI-DrugBankd48s15e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p68" e1="DDI-DrugBankd48s15e6"
+            e2="DDI-DrugBankd48s15e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p69" e1="DDI-DrugBankd48s15e6"
+            e2="DDI-DrugBankd48s15e13" ddi="true" type="advise"/>
+        <pair id="DDI-DrugBankd48s15p70" e1="DDI-DrugBankd48s15e7"
+            e2="DDI-DrugBankd48s15e8" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p71" e1="DDI-DrugBankd48s15e7"
+            e2="DDI-DrugBankd48s15e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p72" e1="DDI-DrugBankd48s15e7"
+            e2="DDI-DrugBankd48s15e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p73" e1="DDI-DrugBankd48s15e7"
+            e2="DDI-DrugBankd48s15e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p74" e1="DDI-DrugBankd48s15e7"
+            e2="DDI-DrugBankd48s15e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p75" e1="DDI-DrugBankd48s15e7"
+            e2="DDI-DrugBankd48s15e13" ddi="true" type="advise"/>
+        <pair id="DDI-DrugBankd48s15p76" e1="DDI-DrugBankd48s15e8"
+            e2="DDI-DrugBankd48s15e9" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p77" e1="DDI-DrugBankd48s15e8"
+            e2="DDI-DrugBankd48s15e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p78" e1="DDI-DrugBankd48s15e8"
+            e2="DDI-DrugBankd48s15e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p79" e1="DDI-DrugBankd48s15e8"
+            e2="DDI-DrugBankd48s15e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p80" e1="DDI-DrugBankd48s15e8"
+            e2="DDI-DrugBankd48s15e13" ddi="true" type="advise"/>
+        <pair id="DDI-DrugBankd48s15p81" e1="DDI-DrugBankd48s15e9"
+            e2="DDI-DrugBankd48s15e10" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p82" e1="DDI-DrugBankd48s15e9"
+            e2="DDI-DrugBankd48s15e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p83" e1="DDI-DrugBankd48s15e9"
+            e2="DDI-DrugBankd48s15e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p84" e1="DDI-DrugBankd48s15e9"
+            e2="DDI-DrugBankd48s15e13" ddi="true" type="advise"/>
+        <pair id="DDI-DrugBankd48s15p85"
+            e1="DDI-DrugBankd48s15e10" e2="DDI-DrugBankd48s15e11" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p86"
+            e1="DDI-DrugBankd48s15e10" e2="DDI-DrugBankd48s15e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p87"
+            e1="DDI-DrugBankd48s15e10" e2="DDI-DrugBankd48s15e13"
+            ddi="true" type="advise"/>
+        <pair id="DDI-DrugBankd48s15p88"
+            e1="DDI-DrugBankd48s15e11" e2="DDI-DrugBankd48s15e12" ddi="false"/>
+        <pair id="DDI-DrugBankd48s15p89"
+            e1="DDI-DrugBankd48s15e11" e2="DDI-DrugBankd48s15e13"
+            ddi="true" type="advise"/>
+        <pair id="DDI-DrugBankd48s15p90"
+            e1="DDI-DrugBankd48s15e12" e2="DDI-DrugBankd48s15e13"
+            ddi="true" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s16" text="Hepatic Impairment There are currently no clinical studies with SPRYCEL in patients with impaired liver function (clinical studies have excluded patients with ALT and/or AST  25 times the upper limit of the normal range and/or total bilirubin  2 times the upper limit of the normal range)">
+        <entity id="DDI-DrugBankd48s16e0" charOffset="64-70"
+            type="brand" text="SPRYCEL"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s17" text="Metabolism of dasatinib is mainly hepatic">
+        <entity id="DDI-DrugBankd48s17e0" charOffset="14-22"
+            type="drug" text="dasatinib"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s18" text="Caution is recommended in patients with hepatic impairment"/>
+    <sentence id="DDI-DrugBankd48s19" text="Renal Impairment There are currently no clinical studies with SPRYCEL in patients with impaired renal function (clinical studies have excluded patients with serum creatinine concentration  15 times the upper limit of the normal range)">
+        <entity id="DDI-DrugBankd48s19e0" charOffset="62-68"
+            type="brand" text="SPRYCEL"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s20" text="Dasatinib and its metabolites are minimally excreted via the kidney">
+        <entity id="DDI-DrugBankd48s20e0" charOffset="0-8"
+            type="drug" text="Dasatinib"/>
+    </sentence>
+    <sentence id="DDI-DrugBankd48s21" text="Since the renal excretion of unchanged dasatinib and its metabolites is  4%, a decrease in total body clearance is not expected in patients with renal insufficiency">
+        <entity id="DDI-DrugBankd48s21e0" charOffset="39-47"
+            type="drug" text="dasatinib"/>
+    </sentence>
+</document>
